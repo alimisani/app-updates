@@ -1,9 +1,9 @@
 {
-  "version": "3.3.5",
-  "windows_url": "https://www.mediafire.com/file/u84g4phrvgf3kfc/ledgeriq.exe/file",
-  "android_url": "https://www.mediafire.com/file/qrxd8hk6jqv2xzc/ledgeriq.apk/file",
+  "version": "4.0.0",
+  "windows_url": "https://www.mediafire.com/file/5kcn49cx18zfyy1/LedgerIQ_4.0.0.exe/file",
+  "android_url": "https://www.mediafire.com/file/er9909hueq3c6fa/LedgerIQ_4.0.0.apk/file",
   "download_url": "https://t.me/golden_path_tech",
-  "release_notes": "حل مشاكل واضافات جديدة"
+  "release_notes": "اصلاح جميع المشاكل واضافة مميزات كثيرة اكتشفها بنفسك (قبل التحديث خذ نسخة من قاعدة البيانات للاحتياط)"
 
 }
 
