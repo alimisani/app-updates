@@ -1,7 +1,7 @@
 {
-  "version": "2.5.6",
-  "windows_url": "",
-  "android_url": "",
+  "version": "2.6.0",
+  "windows_url": "https://www.mediafire.com/file/5fjsu3qwcmpqz42/ISP_2.6.0.exe/file",
+  "android_url": "https://www.mediafire.com/file/huzkf8k8bnymbn1/ISP_2.6.0.apk/file",
   "download_url": "https://t.me/golden_path_tech",
-  "release_notes": "تحديث جديد: اصلاح وتحسين المزامنة في جميع الاقسام، اضافة الكشوفات في قسم التقارير، تحسين وتطوير الديون والمدفوعات، اعادة تصميم وتحديث البطاقات في الواجهة الرئيسية وغيرها من التحسينات اكتشفها بنفسك."
+  "release_notes": "تحديث جديد: اصلاح وتحسين المزامنة في جميع الاقسام، اعادة تصميم بعض الاقسام لتناسب الموبايلات."
 }
