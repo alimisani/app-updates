@@ -1,7 +1,7 @@
 {
-  "version": "2.6.5",
-  "windows_url": "https://www.mediafire.com/file/qonm0tqh23lr2rp/ISP_v2.6.5.exe/file",
-  "android_url": "https://www.mediafire.com/file/djqqpzrhp9rbq8k/ISP_v2.6.5.apk/file",
+  "version": "2.6.5+1",
+  "windows_url": "https://www.mediafire.com/file/ezstd2gtxncqsgp/ISP_v2.6.5.exe/file",
+  "android_url": "https://www.mediafire.com/file/9djmhfzfnbyshoo/ISP_v2.6.5.apk/file",
   "download_url": "https://t.me/golden_path_tech",
-  "release_notes": "تحديث جديد: اصلاح مشاكل المتصفح المدمج بعد التثبيت."
+  "release_notes": "تحديث جديد: اصلاح مشاكل المتصفح المدمج بعد التثبيت واضافة نوع التسديد عند التفعيل وترتيب اسم المستخدم بالشكل الصحيح."
 }
