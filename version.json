@@ -1,7 +1,7 @@
 {
-  "version": "5.0.0",
-  "windows_url": "https://www.mediafire.com/file/fvzzf62zm2w0hrx/ledgeriq_v5.0.0.exe/file",
-  "android_url": "https://www.mediafire.com/file/9yfavqbhql8dnhd/ledgeriq_v5.0.0.apk/file",
+  "version": "5.1.0",
+  "windows_url": "https://www.mediafire.com/file/oqn3gs198jaujbt/ledgeriq_v5.1.0.exe/file",
+  "android_url": "https://www.mediafire.com/file/pi1l28d82nfuvdn/ledgeriq_v5.1.0.apk/file",
   "download_url": "https://golden-path-tech.42web.io",
-  "release_notes": "دعم اللغة العربية، الانجليزية، الكوردية | اضافة قسم فرعي بعنوان العملاء في قسم المخازن لادارة فواتير العملاء | دعم المفاتيح الدولية للواتساب بالاعتماد على نوع العملة | تعدد اشكال القائمة في المنتجات | دعم التحريك بكيبورد الكمبيوتر | تحسين البحث الموسع (قبل التحديث خذ نسخة من قاعدة البيانات للاحتياط)"
+  "release_notes": "اعادة ترتيب قسم المخازن | اعادة ترتيب وتصميم قسم العملاء (قبل التحديث خذ نسخة من قاعدة البيانات للاحتياط)"
 }
