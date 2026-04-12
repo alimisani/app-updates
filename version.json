@@ -1,7 +1,7 @@
 {
-  "version": "5.2.0",
-  "windows_url": "https://www.mediafire.com/file/5q2ax4rkflabtke/ledgeriq_v5.2.0.exe/file",
-  "android_url": "https://www.mediafire.com/file/eujsuylolmwbhs5/ledgeriq_v5.2.0.apk/file",
+  "version": "5.3.0",
+  "windows_url": "https://www.mediafire.com/file/o61l5jkab03sj1o/ledgeriq_v5.3.0.exe/file",
+  "android_url": "https://www.mediafire.com/file/q5c78qtdulgn274/ledgeriq_v5.3.0.apk/file",
   "download_url": "https://golden-path-tech.42web.io",
-  "release_notes": "تحسينات كبيرة وكثيرة (قبل التحديث خذ نسخة من قاعدة البيانات للاحتياط)"
+  "release_notes": "اصلاح بعض المشاكل في النسخ الاحتياطي التلقائي | تعديل خاصية البحث في اضافة الديون لتشمل البحث عن طريق الباركود (قبل التحديث خذ نسخة من قاعدة البيانات للاحتياط)"
 }
