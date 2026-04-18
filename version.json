@@ -1,7 +1,7 @@
 {
-  "version": "5.3.2",
-  "windows_url": "https://www.mediafire.com/file/ndl0w67qyondg25/ledgeriq_v5.3.2.exe/file",
-  "android_url": "https://www.mediafire.com/file/r6acts0od4r2c6v/ledgeriq_v5.3.2.apk/file",
+  "version": "5.5.0",
+  "windows_url": "https://www.mediafire.com/file/1qao6xtih4afw3i/ledgeriq_v5.5.0.exe/file",
+  "android_url": "https://www.mediafire.com/file/c55ftl5nfzxb84b/ledgeriq_v5.5.0.apk/file",
   "download_url": "https://golden-path-tech.42web.io",
-  "release_notes": "تحسين عرض تفاصيل المنتجات (قبل التحديث خذ نسخة من قاعدة البيانات للاحتياط)"
+  "release_notes": "اعادة تصميم قسم الاقساط والديون والمنتجات | اضافة مميزات كبيرة | تحسينات كبرى | جماليات التصميم (قبل التحديث خذ نسخة من قاعدة البيانات للاحتياط)"
 }
