@@ -1,7 +1,7 @@
 {
-  "version": "6.0.0",
-  "windows_url": "https://www.mediafire.com/file/zae4d4lzst1uacu/Golden_Ledger_v6.0.0.exe/file",
-  "android_url": "https://www.mediafire.com/file/svxz7dw84deffed/Golden_Ledger_v6.0.0.apk/file",
+  "version": "6.3.1",
+  "windows_url": "https://www.mediafire.com/file/zvc6rsplnnvxsxv/Golden_Ledger_v6.3.1.exe/file",
+  "android_url": "https://www.mediafire.com/file/t8xdigyr37t3yf9/Golden_Ledger_v6.3.1.apk/file",
   "download_url": "https://golden-path-tech.42web.io",
-  "release_notes": "تغيير اسم التطبيق الى دفتر الحسابات الذهبي | اضافة فلاتر في الاقساط والديون | تحسين عرض قوائم الديون | تحسينات اخرى (قبل التحديث خذ نسخة من قاعدة البيانات للاحتياط)"
+  "release_notes": "تغيير نافذة اضافة وتديل الاقساط | تغيير نافذة اضافة وتعديل الديون | ترحيل القيم السالبة في الديون الى ديون علينا | تحسينات اخرى احترافية (قبل التحديث خذ نسخة من قاعدة البيانات للاحتياط)"
 }
