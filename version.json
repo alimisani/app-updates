@@ -1,7 +1,7 @@
 {
-  "version": "6.5.0",
-  "windows_url": "https://www.mediafire.com/file/6olt1lt0j7z68ur/Golden_Ledger_v6.5.0.exe/file",
-  "android_url": "https://www.mediafire.com/file/f9exfp30xgfd5ox/Golden_Ledger_v6.5.0.apk/file",
+  "version": "6.5.3",
+  "windows_url": "https://www.mediafire.com/file/ggmpfyib19d4i3j/Golden_Ledger_v6.5.3.exe/file",
+  "android_url": "https://www.mediafire.com/file/1ac47ru3pcdj5tg/Golden_Ledger_v6.5.3.apk/file",
   "download_url": "https://golden-path-tech.42web.io",
-  "release_notes": "1. نظام جرد مخزني متطور\n2. تحديث شامل للواجهة والألوان\n3. فواصل الآلاف لجميع الأسعار\n4. تحسينات عامة في الأداء والاستقرار\n(يرجى أخذ نسخة احتياطية قبل التحديث)"
+  "release_notes": "1. تطوير قسم المخازن والموردين\n2. تحديث شامل للواجهة والألوان\n3. اضافة مولد الباركودات في قسم المخزن\n4. حل مشكلة الباركود المكرر\n5. تحسينات عامة في الأداء والاستقرار\n(يرجى أخذ نسخة احتياطية قبل التحديث)"
 }
