@@ -1,7 +1,7 @@
 {
-  "version": "6.5.3",
-  "windows_url": "https://www.mediafire.com/file/ggmpfyib19d4i3j/Golden_Ledger_v6.5.3.exe/file",
-  "android_url": "https://www.mediafire.com/file/1ac47ru3pcdj5tg/Golden_Ledger_v6.5.3.apk/file",
+  "version": "6.5.5",
+  "windows_url": "https://www.mediafire.com/file/y5k48me7jisac5v/Golden_Ledger_v6.5.5.exe/file",
+  "android_url": "https://www.mediafire.com/file/y7h4c5jv81fnmlm/Golden_Ledger_v6.5.5.apk/file",
   "download_url": "https://golden-path-tech.42web.io",
-  "release_notes": "1. تطوير قسم المخازن والموردين\n2. تحديث شامل للواجهة والألوان\n3. اضافة مولد الباركودات في قسم المخزن\n4. حل مشكلة الباركود المكرر\n5. تحسينات عامة في الأداء والاستقرار\n(يرجى أخذ نسخة احتياطية قبل التحديث)"
+  "release_notes": "1. تخصيص واجهة قسم المخزن والمزيد\n2. تحديث شامل لشاشة الاعدادات\n3. التحكم في ايقونات المشاركة الخاصة بالديون من خلال الاعدادات\n4. تخصيص خيار البحث السريع لقارئ الباركود من خلال ايقافه وتشغيله من الاعدادات\n5. تحسينات عامة في الأداء والاستقرار\n(يرجى أخذ نسخة احتياطية قبل التحديث)"
 }
