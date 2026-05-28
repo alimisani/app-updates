@@ -1,7 +1,7 @@
 {
-  "version": "6.5.5",
-  "windows_url": "https://www.mediafire.com/file/y5k48me7jisac5v/Golden_Ledger_v6.5.5.exe/file",
-  "android_url": "https://www.mediafire.com/file/y7h4c5jv81fnmlm/Golden_Ledger_v6.5.5.apk/file",
+  "version": "7.0.0",
+  "windows_url": "https://www.mediafire.com/file/p0qtbztom5dn210/Golden_Ledger_v7.0.0.exe/file",
+  "android_url": "https://www.mediafire.com/file/f49i7keul0l376u/Golden_Ledger_v7.0.0.apk/file",
   "download_url": "https://golden-path-tech.42web.io",
-  "release_notes": "1. تخصيص واجهة قسم المخزن والمزيد\n2. تحديث شامل لشاشة الاعدادات\n3. التحكم في ايقونات المشاركة الخاصة بالديون من خلال الاعدادات\n4. تخصيص خيار البحث السريع لقارئ الباركود من خلال ايقافه وتشغيله من الاعدادات\n5. تحسينات عامة في الأداء والاستقرار\n(يرجى أخذ نسخة احتياطية قبل التحديث)"
+  "release_notes": "1. واجهة جديد يمكن اختيارها من الاعدادات \n2. ستايلات متنوعة \n3. معاينة الطباعة قبل طباعة الوصولات في الديون والاقساط \n4. تخصيص الوصولات والفواتير من الاعدادات\n5. تحسينات عامة في الأداء والاستقرار\n(يرجى أخذ نسخة احتياطية قبل التحديث)"
 }
