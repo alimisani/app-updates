@@ -1,7 +1,7 @@
 {
-  "version": "7.0.0",
-  "windows_url": "https://www.mediafire.com/file/o93ko4ee1wkp3yl/Golden_Ledger_v7.0.0.exe/file",
-  "android_url": "https://www.mediafire.com/file/bavlzt5k5b6v8j4/Golden_Ledger_v7.0.0.apk/file",
+  "version": "7.0.1",
+  "windows_url": "https://www.mediafire.com/file/a2u22z9p9no4347/Golden_Ledger_v7.0.0.exe/file",
+  "android_url": "https://www.mediafire.com/file/32hj7mhkuvwdfmn/Golden_Ledger_v7.0.0.apk/file",
   "download_url": "https://golden-path-tech.42web.io",
   "release_notes": "1. واجهة جديد يمكن اختيارها من الاعدادات \n2. ستايلات متنوعة \n3. معاينة الطباعة قبل طباعة الوصولات في الديون والاقساط \n4. تخصيص الوصولات والفواتير من الاعدادات\n5. تحسينات عامة في الأداء والاستقرار\n(يرجى أخذ نسخة احتياطية قبل التحديث)"
 }
