@@ -1,7 +1,7 @@
 {
   "version": "8.0.0",
-  "windows_url": "https://www.mediafire.com/file/9f6um6wb5e3x1cu/Golden_Ledger_v8.0.0.exe/file",
-  "android_url": "https://www.mediafire.com/file/m2x18l7fy8y1yy8/Golden_Ledger_v8.0.0.apk/file",
+  "windows_url": "https://www.mediafire.com/file/ybcey9ouv9mdtx9/Golden_Ledger_v8.0.0.exe/file",
+  "android_url": "https://www.mediafire.com/file/9se4xyywjd5xbem/Golden_Ledger_v8.0.0.apk/file",
   "download_url": "https://golden-path-tech.42web.io",
   "release_notes": "1. تغيير أيقونة التطبيق.\n2. إضافة خاصية الرصيد الافتتاحي (يتم تفعيلها من الإعدادات).\n3. تطوير سجل العمليات.\n4. تحسين الأقساط والديون.\n* (تنبيه: يرجى أخذ نسخة احتياطية للبيانات قبل التحديث)."
 }
